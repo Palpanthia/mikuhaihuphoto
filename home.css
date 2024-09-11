@@ -31,10 +31,11 @@ body{
         display:inline-block;
     }
     p{
-        font-size: x-large;
+        font-size: xx-large;
     }
     p1{
         font-size: xx-large;
+        color: crimson;
     }
 }
 
